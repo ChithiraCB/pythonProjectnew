@@ -1,0 +1,11 @@
+list1=["apple","orange","cherry"]
+a=list1.count("cherry")
+print(a)
+list1.reverse()
+print(list1)
+list1.sort()
+print(list1)
+b=max(list1)
+print(b)
+c=min(list1)
+print(c)
